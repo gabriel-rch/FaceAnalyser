@@ -1,4 +1,7 @@
-![logo](images/face-analyser-logo.png)
+<div align="center">
+<p align="center"><img src="images/face-analyser-logo.png" alt="logo"></p>
+</div>
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
